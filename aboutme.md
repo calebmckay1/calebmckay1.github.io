@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Play Goes On
 ---
 
 Hi, my name is Caleb, Caleb McKay.
