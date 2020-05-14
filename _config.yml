@@ -38,17 +38,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "cjmckay7@gmail.com"
-  facebook: https://www.facebook.com/caleb.mckay.7
-  github: true
-  twitter: true
-  rss: true
+  email: cjmckay7@gmail.com
+  facebook: caleb.mckay.7
+  github: false
+  twitter: false
+  rss: false
 #  reddit: yourname
- linkedin: true
+ linkedin: false
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
- snapchat: deanat78
- instagram: https://www.instagram.com/calebmckay/
+ snapchat: cmwitty88
+ instagram: calebmckay
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
