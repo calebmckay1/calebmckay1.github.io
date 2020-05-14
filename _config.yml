@@ -7,12 +7,12 @@ title: My website
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Caleb McKay
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -38,17 +38,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "cjmckay7@gmail.com"
+  facebook: https://www.facebook.com/caleb.mckay.7
+  github: true
+  twitter: true
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: true
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+ snapchat: deanat78
+ instagram: https://www.instagram.com/calebmckay/
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
