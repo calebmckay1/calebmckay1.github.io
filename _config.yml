@@ -13,10 +13,9 @@ author: "Caleb McKay"
 
 navbar-links:
   About Me: "About Me"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact Me: 
+    - Email: cjmckay7@gmail.com
+    - Facebook: caleb.mckay.7
 
 # --- Logo --- #
 
@@ -68,7 +67,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
