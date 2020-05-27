@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: The Play Goes On
+subtitle: The Play Goes On.
 ---
 
 Hi, my name is Caleb, Caleb McKay.
