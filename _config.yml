@@ -4,7 +4,7 @@
 title: "calebmckay"
 
 # Short description of your site
-description: "A virtual proof that I'm awesome"
+description: "Peek Into the World of DataScience"
 
 # Your name to show in the footer
 author: "Caleb McKay"
@@ -14,8 +14,8 @@ author: "Caleb McKay"
 navbar-links:
   About Me: "About Me"
   Contact Me: 
-    - Email: cjmckay7@gmail.com
-    - Facebook: caleb.mckay.7
+    - Email: mailto:cjmckay7@gmail.com
+    - Facebook: https://www.facebook.com/caleb.mckay.7
 
 # --- Logo --- #
 
@@ -39,16 +39,16 @@ round-avatar: true
 social-network-links:
   email: cjmckay7@gmail.com
   facebook: caleb.mckay.7
-  github: false
+  github: calebmckay1
   twitter: false
   rss: false
 #  reddit: yourname
-  linkedin: false
+  linkedin: https://www.linkedin.com/in/calebjmckay/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
   snapchat: cmwitty88
   instagram: calebmckay
-#  youtube: user/deanat78
+  youtube: https://www.youtube.com/channel/UCqzl3aV6sPP-w-WSmIpegjw
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
