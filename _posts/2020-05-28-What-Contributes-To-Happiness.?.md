@@ -16,7 +16,7 @@
 
 
 
-&ensp; &ensp; As you can see from the map, in 2019 the countries which reported to be the least happy reside in 3rd world countries, which leads us into in interesting question..
+&ensp; &ensp; As you can see from the map, the countries which reported to be the least happy reside in 3rd world countries, which leads us into in interesting question..
 
 
 # Can Money Really Buy Happiness..? Well, sort of..
