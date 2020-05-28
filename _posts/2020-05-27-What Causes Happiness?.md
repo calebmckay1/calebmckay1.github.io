@@ -4,14 +4,16 @@
 
 
 
-<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.19%20PM.png' width='250'>
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.19%20PM.png' width='500'>
 
 
 
 &ensp; &ensp; It appears that the happiest regions reside in Australia / New Zealand, and North America, followed by Western Europe and Latin America, where the least happiest region seems to be Africa. It also appears that happiness doesnt change much from year to year. Lets get a closer look based on country now. 
   
+  
 
-![Happiness By Country](https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-28%20at%204.06.21%20PM.png)
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-28%20at%204.06.21%20PM.png' width='500'>
+
 
 
 &ensp; &ensp; As you can see from the map, in 2019 the countries which reported to be the least happy reside in 3rd world countries, which leads us into in interesting question..
@@ -19,13 +21,14 @@
 
 # Can Money Really Buy Happiness..? Well, sort of..
 
-![Happiness Correlation](https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.06%20PM.png)
+
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.06%20PM.png' width='500'>
 
 
 &ensp; &ensp; By running a correlation matrix on the data from the World Happiness Report, between the years 2015 and 2019, we can see that GDP / Economy are highly correlated with happiness, followed very closely by Family Support and Health. 
 
-![Happiness Correlation Visualized](https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.50.41%20PM.png)
 
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.50.41%20PM.png' width='500'>
 
 &ensp; &ensp; As the Happiness Score increases, the impact of GDP, Family Support, and Health also increases. 
 
