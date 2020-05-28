@@ -1,6 +1,6 @@
 # What Causes Happiness?
 
-&ensp; &ensp; The World Happiness Report is a survey conducted around the globe which asks individuals to rate their overall happiness on a scale of 1-10 and also asks what factors contribute to their happiness the most, which is then averaged out and grouped by country and region. In the dataset I recieved from Kaggle they used 6 distinct factors: "Health, GDP / Economy, Family Support, Trust in Government, Freedom, and Generosity."
+&ensp; &ensp; The World Happiness Report is a survey conducted around the globe which asks individuals to rate their overall happiness on a scale of 1-10 and also asks what factors contribute to their happiness the most, which is then averaged out and grouped by country and region. In the dataset I recieved from Kaggle they used 6 distinct factors: "Health, GDP / Economy, Family Support, Trust in Government, Freedom, and Generosity." Here is the trend of world happiness from 2015 to 2019.
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-&ensp; &ensp; It appears that the happiest regions reside in Australia / New Zealand, and North America, followed by Western Europe and Latin America, where the least happiest region seems to be Africa. It also appears that happiness doesnt change much from year to year. Lets get a closer look based on country now. 
+&ensp; &ensp; It appears that the happiest regions reside in Australia / New Zealand, and North America, followed by Western Europe and Latin America, where the least happiest region seems to be Africa. It also appears that the level of happiness doesnt change much from year to year. Lets get a closer look based on country now. 
   
   
 
