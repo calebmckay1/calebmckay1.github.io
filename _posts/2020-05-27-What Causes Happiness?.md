@@ -12,7 +12,7 @@
   
   
 
-<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-28%20at%204.06.21%20PM.png' width='500'>
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-28%20at%204.06.21%20PM.png' width='700'>
 
 
 
@@ -22,13 +22,13 @@
 # Can Money Really Buy Happiness..? Well, sort of..
 
 
-<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.06%20PM.png' width='500'>
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.46.06%20PM.png' width='400'>
 
 
 &ensp; &ensp; By running a correlation matrix on the data from the World Happiness Report, between the years 2015 and 2019, we can see that GDP / Economy are highly correlated with happiness, followed very closely by Family Support and Health. 
 
 
-<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.50.41%20PM.png' width='500'>
+<img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.50.41%20PM.png' width='750'>
 
 &ensp; &ensp; As the Happiness Score increases, the impact of GDP, Family Support, and Health also increases. 
 
