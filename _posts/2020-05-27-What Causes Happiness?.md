@@ -9,7 +9,7 @@
 
 
 
-> It appears that the happiest regions reside in Australia / New Zealand, and North America, followed by Western Europe and Latin America, with the least happy region to be Africa. It also appears that happiness doesnt change much from year to year. Lets get a closer look based on country now. 
+&ensp; It appears that the happiest regions reside in Australia / New Zealand, and North America, followed by Western Europe and Latin America, with the least happy region to be Africa. It also appears that happiness doesnt change much from year to year. Lets get a closer look based on country now. 
   
 
 ## - insert world heatmap - ##
