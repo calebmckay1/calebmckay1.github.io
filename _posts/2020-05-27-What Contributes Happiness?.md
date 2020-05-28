@@ -1,4 +1,4 @@
-# What Causes Happiness?
+# What Contributes To Happiness?
 
 &ensp; &ensp; The World Happiness Report is a survey conducted around the globe which asks individuals to rate their overall happiness on a scale of 1-10 and also asks what factors contribute to their happiness the most, which is then averaged out and grouped by country and region. In the dataset I recieved from Kaggle they used 6 distinct factors: "Health, GDP / Economy, Family Support, Trust in Government, Freedom, and Generosity." Here is the trend of world happiness from 2015 to 2019 based on overall region.
 
