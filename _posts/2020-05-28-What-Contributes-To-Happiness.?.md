@@ -30,7 +30,7 @@
 
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/Screen%20Shot%202020-05-26%20at%208.50.41%20PM.png' width='750'>
 
-&ensp; &ensp; As the Happiness Score increases, the impact of GDP, Family Support, and Health also increases. 
+&ensp; &ensp; As the Happiness Score increases, the impact of GDP, Family Support, and Health also increases, with Family Support being the most important factor for happiness in 2019. 
 
 # Conclusion 
 
