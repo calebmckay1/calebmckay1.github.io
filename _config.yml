@@ -12,7 +12,7 @@ author: "Caleb McKay"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Me"
+  About Me: aboutme.md
   Contact Me: 
     - Email: mailto:cjmckay7@gmail.com
     - Facebook: https://www.facebook.com/caleb.mckay.7
