@@ -1,6 +1,6 @@
 ---
 layout: home
-title: AboutMe
+title: About Me
 subtitle: The Play Goes On.
 ---
 
