@@ -57,6 +57,6 @@ include our target data, and the y which did. Afterwards I used Smote to even ou
 
 &ensp;&ensp; In conclusion it appears that the most important factor in determining if you are at risk for heart disease is age. The majority of people don't have it and the majority class in our sample concurs with this. It seems that making sure your blood pressure and BMI are in check are the small things that can go a long way in preventing this disease. 
 
-&ensp;&ensp; I've created a web app to see if you're at risk, you can visit this app here: <a href='https://the-heartdisease-dash-app8.herokuapp.com/'>
+&ensp;&ensp; I've created a web app to see if you're at risk, you can visit this app here: [Web App]('https://the-heartdisease-dash-app8.herokuapp.com/)
 
 
