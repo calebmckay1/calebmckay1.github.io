@@ -7,47 +7,30 @@
 skewed. This means if we were to guess if a patient is at risk for developing
 heart disease, we could assume "no", and be correct almost 85% of the time.
 
-
-&ensp;
-
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.19.55%20PM.png' width='500'>
 
 &ensp; &ensp; I then went ahead and created x using the columns that didnt 
 include our target data, and the y which did. Afterwards I used Smote to even out the classes. This is what happened.
 
-&ensp;
-
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.20.37%20PM.png' width='500'>
-
-&ensp;
-
 
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.21.04%20PM.png' width='500'>
 
 &ensp;&ensp; Now that the target data (what we're predicting) is leveled out to roughly 50/50, it was time to train a model. At this point I ended up starting small and used a Logistic Regression model. Here's are the results:
 
-&ensp;
-
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.22.04%20PM.png' width='700'>
 
 &ensp;&ensp; Yeah not the greatest.. This model beat the majority class of 50% for the train data but we could do better so I went ahead and created a different model using XGBClassifier.
 
-&ensp;
-
-
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%202.37.22%20PM.png' width='700'>
 
 &ensp;&ensp; This ended up having a better accuracy score on all 3 subsets than the previous models, but I was curious how the features interacted with eachother, and which features had the most importance, so I created a feature importance plot using pdp, and this is which features had the most weight:
-
-&ensp;
 
 
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%202.43.41%20PM.png' width='350'>
 
 
 &ensp;&ensp; From what the model shows, it appears as if the older you get the more at risk you become, which makes a lot of sense. Out of these features I wanted to view the interaction between 2 of them. I chose the top feature, age, and systolic blood pressure, and used feature interaction pdp to plot.
-
-&ensp;
 
 
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.25.02%20PM.png' width='500'>
