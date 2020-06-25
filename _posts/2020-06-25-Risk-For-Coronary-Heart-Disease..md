@@ -8,7 +8,8 @@ skewed. This means if we were to guess if a patient is at risk for developing
 heart disease, we could assume "no", and be correct almost 85% of the time.
 
 
-&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
+&ensp;
+
 <img src='https://raw.githubusercontent.com/calebmckay1/calebmckay1.github.io/master/resources/Screenshot%202020-06-25%20at%201.19.55%20PM.png' width='500'>
 
 &ensp; &ensp; I then went ahead and created x using the columns that didnt 
